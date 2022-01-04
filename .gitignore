@@ -1,4 +1,6 @@
 _site/
+.sass-cache/
+Gemfile.lock
 *checkpoints*
 *.DS_Store*
 
