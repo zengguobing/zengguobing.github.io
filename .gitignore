@@ -1,3 +1,4 @@
 _site/
 *checkpoints*
+*.DS_Store*
 

@@ -1,31 +1,30 @@
 ---
 layout: archive
-title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
 
 {% include base_path %}
 
-## Peer-reviewed publications ##
+# Peer-Reviewed Publications
 
-[in prep] **Yunjun, Z.,** Amelung, F. & Aoki, Y. (2023). Diverse Volcanic and Anthropogenic Deformation in Kyushu from L-band InSAR Time Series from 1992 to 2019.
+[_in prep_] **Yunjun, Z.,** Amelung, F. & Aoki, Y. (2023). Diverse Volcanic and Anthropogenic Deformation in Kyushu from L-band InSAR Time Series from 1992 to 2019.
 
-[in prep.] **Yunjun, Z.,** Fattahi, H., Brancato, V., Simons, M., Zhu, L., Rosen, P. (2022). Absolute Tectonic Displacement Mapping from SAR Offset Time Series: Noise Reduction and Uncertainty Quantification.
+[_in prep_] **Yunjun, Z.,** Fattahi, H., Brancato, V., Simons, M., Zhu, L., Rosen, P. (2022). Absolute Tectonic Displacement Mapping from SAR Offset Time Series: Noise Reduction and Uncertainty Quantification.
 
-[in review] **Yunjun, Z.,** Fattahi, H., Pi, X., Rosen, P., Simons, M., Agram, P., & Aoki, Y. (2022). Range Geolocation Accuracy of C/L-band SAR and its Implications for Operational Stack Coregistration. _IEEE Transactions on Geoscience and Remote Sensing_.
+[_in review_] **Yunjun, Z.,** Fattahi, H., Pi, X., Rosen, P., Simons, M., Agram, P., & Aoki, Y. (2022). Range Geolocation Accuracy of C/L-band SAR and its Implications for Operational Stack Coregistration. _IEEE Transactions on Geoscience and Remote Sensing_.
 
-[in revision] Gregg, P. M., Zhan, Y., Amelung, F., Geist, D., Mothes, P., Koric, S., **Yunjun, Z.** (2021), Mechanical failure and the June 26, 2018 Eruption of Sierra Negra Volcano, Galápagos – Ecuador, _Science Advance_.
+[_in revision_] Gregg, P. M., Zhan, Y., Amelung, F., Geist, D., Mothes, P., Koric, S., **Yunjun, Z.** (2021), Mechanical failure and the June 26, 2018 Eruption of Sierra Negra Volcano, Galápagos – Ecuador, _Science Advance_.
 
 ### 2021
 
 9\. Oliver-Cabrera, T., Jones, C. E., **Yunjun, Z.**, & Simard, M. (2021). InSAR Phase Unwrapping Error Correction for Rapid Repeat Measurements of Water Level Change in Wetlands. _IEEE Transactions on Geoscience and Remote Sensing_, 1-15, doi:[10.1109/TGRS.2021.3108751](https://doi.org/10.1109/TGRS.2021.3108751). [ [PDF](https://yunjunz.github.io/files/Oliver_etal-2021-PUError.pdf) ]
 
-8\. **Yunjun, Z.,** Amelung, F., & Aoki, Y. (2021), Imaging the hydrothermal system of Kirishima volcanic complex with L-band InSAR time series, _Geophysical Research Letters_, 48(11), e2021GL092879, doi:[10.1029/2021GL092879](https://doi.org/10.1029/2021GL092879). [ [PDF](https://yunjunz.github.io/files/Yunjun_etal-2021-Kirishima.pdf) | [Supp](https://yunjunz.github.io/files/Yunjun_etal-2021-Kirishima-supp.pdf) | [Data](https://github.com/geodesymiami/2021-Kirishima) ]
+8\. **Yunjun, Z.,** Amelung, F., & Aoki, Y. (2021), Imaging the hydrothermal system of Kirishima volcanic complex with L-band InSAR time series, _Geophysical Research Letters_, 48(11), e2021GL092879, doi:[10.1029/2021GL092879](https://doi.org/10.1029/2021GL092879). [ [PDF](https://yunjunz.github.io/files/Yunjun_etal-2021-Kirishima.pdf) \| [Supp](https://yunjunz.github.io/files/Yunjun_etal-2021-Kirishima-supp.pdf) \| [Data](https://github.com/geodesymiami/2021-Kirishima) ]
 
 ### 2019
 
-7\. **Yunjun, Z.,** Fattahi, H., & Amelung, F. (2019), Small baseline InSAR time series analysis: Unwrapping error correction and noise reduction, _Computers and Geosciences_, 133, 104331, doi:[10.1016/j.cageo.2019.104331](https://doi.org/10.1016/j.cageo.2019.104331). [ [PDF](https://yunjunz.github.io/files/Yunjun_etal-2019-mintpy.pdf) | [Supp](https://yunjunz.github.io/files/Yunjun_etal-2019-mintpy-supp.pdf) | [Data](https://github.com/geodesymiami/Yunjun_et_al-2019-MintPy) | [Code](https://github.com/insarlab/MintPy) ]
+7\. **Yunjun, Z.,** Fattahi, H., & Amelung, F. (2019), Small baseline InSAR time series analysis: Unwrapping error correction and noise reduction, _Computers and Geosciences_, 133, 104331, doi:[10.1016/j.cageo.2019.104331](https://doi.org/10.1016/j.cageo.2019.104331). [ [PDF](https://yunjunz.github.io/files/Yunjun_etal-2019-mintpy.pdf) \| [Supp](https://yunjunz.github.io/files/Yunjun_etal-2019-mintpy-supp.pdf) \| [Data](https://github.com/geodesymiami/Yunjun_et_al-2019-MintPy) \| [Code](https://github.com/insarlab/MintPy) ]
 
 6\. Ge, S., Lin, G., Amelung, F., Okubo, P. G., Swanson, D. A., & **Yunjun, Z.** ( 2019). The accommodation of the south flank’s motion by the Koa‘e fault system, Kīlauea, Hawai‘i: insights from the June 2012 earthquake sequence. _Journal of Geophysical Research: Solid Earth_, 124. doi:[10.1029/2018JB016961](https://doi.org/10.1029/2018JB016961). [ [PDF](https://yunjunz.github.io/files/Ge_etal-2019-Koae.pdf) ]
 
@@ -35,7 +34,7 @@ author_profile: true
 
 ### 2017
 
-4\. Zhang, Y. F., Zhang, Y. J., **Yunjun, Z.** & Zhao, Z., (2017), A Two-step Semi-Global Filtering Approach to extract DTM from Middle Resolution DSM, _IEEE Geoscience and Remote Sensing Letters_, 14(9), 1599-1603. doi:[10.1109/LGRS.2017.2725909](https://doi.org/10.1109/LGRS.2017.2725909). [ [PDF](https://yunjunz.github.io/files/Zhang_etal-2017-DTM.pdf) | [Code](https://github.com/zenmemeinuanqi/Two-step-Semi-Global-Filtering) ]
+4\. Zhang, Y. F., Zhang, Y. J., **Yunjun, Z.** & Zhao, Z., (2017), A Two-step Semi-Global Filtering Approach to extract DTM from Middle Resolution DSM, _IEEE Geoscience and Remote Sensing Letters_, 14(9), 1599-1603. doi:[10.1109/LGRS.2017.2725909](https://doi.org/10.1109/LGRS.2017.2725909). [ [PDF](https://yunjunz.github.io/files/Zhang_etal-2017-DTM.pdf) \| [Code](https://github.com/zenmemeinuanqi/Two-step-Semi-Global-Filtering) ]
 
 ### 2015
 
@@ -47,7 +46,88 @@ author_profile: true
 
 1\. **Yunjun, Z.,** Xie, C., Shao, Y., & Yuan, M. (2013), Adaptive Spatial Filtering of Interferometric Data Stacking oriented to Distributed Scatterers, _Int. Arch. Photogramm. Remote Sens. Spatial Inf. Sci._, XL-7/W1, 173-178, doi:[10.5194/isprsarchives-XL-7-W1-173-2013](https://doi.org/10.5194/isprsarchives-XL-7-W1-173-2013). [ [PDF](https://yunjunz.github.io/files/Yunjun_etal-2013-AdapFilt.pdf) ]
 
-## Dissertations ##
+
+# Dissertations
+
+Yunjun, Z., (2014), Distributed Scatterer Radar Interferometry for Deformation of Seawalls, _University of Chinese Academy of Sciences_, Beijing, China (in Chinese with English abstract). [ [PDF](https://yunjunz.github.io/files/Yunjun-2014-MS.pdf) ]
+
+Yunjun, Z., (2019), Geodetic Imaging of Volcanic Deformation with Time Series Radar Interferometry, PhD Thesis, University of Miami, Coral Gable, FL, USA. [ [Link](https://scholarlyrepository.miami.edu/oa_dissertations/2388) ]
 
 
-## Conference Presentations ##
+# Conference Presentations
+
+### 2021
+
+**Yunjun, Z.,** Fattahi, H., Brancato, V., Simons, M., Zhu, L., Rosen, P. (2021). Oral: Absolute Tectonic Displacement Mapping from SAR Offset Time Series: Noise Reduction and Uncertainty Quantification (G42A-04), _AGU Fall Meeting 2021_, Dec 13 - 17, 2021, New Orleans, LA.
+
+Oliver-Cabrera, T., Jones, C., **Yunjun, Z.,** Simard, M. (2021) Oral: InSAR Phase Unwrapping Error Correction for Rapid Repeat Measurements of Water Level Change in Wetlands (G43A-07), _AGU Fall Meeting 2021_, Dec 13 - 17, 2021, New Orleans, LA.
+
+Xu, L., Meng, L., Ji, C., Fielding, E., **Yunjun, Z.,** Zinke, R., Bao, H. (2021). Poster: Kinematic rupture history of the 2021 M7.3 Madoi earthquake in Qinghai (S55F-0210), _AGU Fall Meeting 2021_, Dec 13 - 17, 2021, New Orleans, LA.
+
+Solano-Rojas, D., Garcia-Venegas, J., **Yunjun, Z.,** Cabral-Cano, E., Fernandez-Torres, E., Wdowinski, S. (2021). Poster: Sentinel-1 InSAR nationwide ground deformation mapping over Mexico (G55A-0244), _AGU Fall Meeting 2021_, Dec 13 - 17, 2021, New Orleans, LA.
+
+**Yunjun, Z.,** Fattahi, H., Brancato, V., Rosen, P., Simons, M. (2021), Oral: Tectonic displacement mapping from SAR offset time series: noise reduction and uncertainty quantification (590), _FRINGE 2021_, 31 May - 4 Jun, 2021, Virtual. [ [Recording](https://youtu.be/Eu_T8mOs09U?t=101) ]
+
+**Yunjun, Z.,** Fattahi, H., Agram, P. S., Rosen, P., Simons, M. (2021), Oral: InSAR uncertainty due to phase unwrapping errors (444), _FRINGE 2021_, 31 May - 4 Jun, 2021, Virtual. [ [Recording](https://youtu.be/czDSZo2wJRk?t=3394) ]
+
+Fattahi, H., **Yunjun, Z.,** Pi, X., Rosen, P., Agram., P., Aoki, Y., (2021), Oral: Impact of ionospheric range delay on the geolocation of low-frequency SAR data: implication for NISAR (386), _FRINGE 2021_, 31 May - 4 Jun, 2021, Virtual. [ [Recording](https://youtu.be/sJOBlTFsQyI?t=3147) ]
+
+Sana, H., Fielding, E., Liang, C., **Yunjun, Z.** (2021) Strain accumulation along various faults in the Kashmir Himalaya from InSAR (EGU21-13780), _EGU General Assembly 2021_, 19-31 April 2021, Virtual.
+
+### 2020
+
+**Yunjun, Z.,** Fattahi, H., Agram, P. S., Rosen, P., Simons, M. (2020), Oral: InSAR uncertainty due to
+phase unwrapping errors (G023-08). _AGU Fall Meeting 2020_, Dec 7-11, 2020, Virtual.
+
+Fattahi, H., **Yunjun, Z.,** Pi, X., Agram, P., Rosen, P., Aoki, Y. (2020), Oral: Absolute geolocation of SAR Big-Data: The first step for operational InSAR time-series analysis (G023-05). _AGU Fall Meeting 2020_, Dec 7-11, 2020, Virtual.
+
+Oliver-Cabrera, T., Jones, C., **Yunjun, Z.,** Simard, M. (2020), Poster: InSAR Phase Unwrapping Error Correction for Rapid Repeat Wetland Water-Level Change Measurements (H011-0030). _AGU Fall Meeting 2020_, Dec 7-11, 2020, Virtual.
+
+Gregg, P., Zhan, Y., Amelung, F., Albright, J., Geist, D., Mothes, P., **Yunjun, Z.,** Koric, S. (2020), Linking thermomechanical models with geodetic observations to evaluate the 2018 eruption of Sierra Negra Volcano, Galápagos (EGU2020-10835), _EGU General Assembly Conference 2020_, 4-8 May 2020, Virtual.
+
+Cao, Y., Trippanera, D., Li, X., Nobile, A., **Yunjun, Z.,** Passarelli, L., Xu, W., Jónsson, S. (2020) InSAR Imaging of White Island from 2014 to 2020: Insights into the 2019 Phreatic Eruption (EGU2020-10551), _EGU General Assembly Conference 2020_, 4-8 May 2020, Virtual.
+
+### 2019
+
+**Yunjun, Z.,** Amelung, F., Aoki, Y. (2019), Oral: InSAR Imaging of Shallow Hydrothermal and Magmatic Pressurization at Kirishima Volcanic Complex, Japan (G31A-04). _AGU Fall Meeting 2019_, Dec 9-13, 2019, San Francisco, CA, USA.
+
+Gregg, P., Zhan, Y., Amelung, F., Geist, D., Mothes, P., **Yunjun, Z.,** Koric, S. (2019), Oral: Forecasting the June 26, 2018 Eruption of Sierra Negra Volcano, Galapagos (V12A-08). _AGU Fall Meeting 2019_, Dec 9-13, 2019, San Francisco, CA, USA.
+
+### 2018
+
+**Yunjun, Z.,** Fattahi, H., Amelung, F. (2018). Poster: Two Unwrapping Error Correction Methods based on Bridging and Phase Closure for the Interferogram Stack (G41B-0690). _AGU Fall Meeting 2018_, Dec 10-14, 2018, Washington DC, USA. [ [PDF](https://yunjunz.github.io/files/Yunjun-2018-AGU.pdf) ]
+
+### 2017
+
+**Yunjun, Z.,** Fattahi, H., Amelung, F. (2017). Oral: Phase correction and error estimation in InSAR time
+series analysis (G33A-06). _AGU Fall Meeting 2017_, Dec 11-15, 2017, New Orleans, LA, USA.
+
+**Yunjun, Z.,** Amelung, F., Aoki, Y. (2017). Oral: Diverse volcanic deformation in Kyushu, Japan from over a decade of L-band InSAR survey. _IAVCEI 2017 Scientific Assembly_, Aug 14-18, 2017, Portland, OR, USA.
+
+**Yunjun, Z.,** Fattahi, H., Amelung, F. (2017). Oral: InSAR time series analysis with PySAR. _Fringe 2017_, Jun 4-9, 2017, Helsinki, Finland. [ [PDF](https://yunjunz.github.io/files/Yunjun-2017-FRINGE.pdf) ]
+
+### 2016
+
+**Yunjun, Z.,** Amelung F., Aoki Y., (2016). Poster: A time series InSAR survey of volcanic deformation in Kyushu, SW Japan with JERS and ALOS data (G51B-1113). _AGU Fall Meeting 2016_, Dec 12-16, 2016, San Francisco, CA, USA.
+
+**Yunjun, Z.,** Amelung F., Aoki Y., (2016). Poster: Monitoring volcanic unrest in Kyushu, Japan with time series InSAR (S3.6–321). _Cities on Volcanoes 9_, Nov 21-25, 2016, Puerto Varas, Chile. [ [PDF](https://yunjunz.github.io/files/Yunjun-2016-CoV9.pdf) ]
+
+**Yunjun, Z.,** Amelung F., Aoki Y. (2016). Poster: An InSAR survey of volcanic deformation on Kyushu, Japan from L-band SAR (174). _Living Planet Symposium 2016_, May 9-13, 2016, Prague, Czech Republic.
+
+### 2015
+
+**Yunjun, Z.,** Amelung F., Aoki Y., Albino F. (2015). Poster: Volcanic Unrest of the 2011 Eruption at Shinmoe-dake (Kirishima), Japan, revealed by InSAR and GPS data and modeling (G41A-1009). _AGU Fall Meeting 2015_, Dec 14-18, 2015, San Francisco, CA, USA. [ [PDF](https://yunjunz.github.io/files/Yunjun-2015-AGU.pdf) ]
+
+Brothelande, E., Amelung, F., **Yunjun, Z.** (2015). Poster: Interactions and interconnectivity of neighboring volcanic systems in southern Japan (Kyūshū) (V53C-3102), _AGU Fall Meeting 2015_, Dec 14-18, 2015, San Francisco, CA, USA.
+
+Solano-Rojas, D., Wdowinski, S., Cabral, E., **Yunjun, Z.,** Torres, Y. (2015). Poster: Differential Subsidence in Mexico City and its Consequences to the Collective Transport System (Metro), _AGU Fall Meeting 2015_, Dec 14-18, 2015, San Francisco, CA, USA.
+
+**Yunjun, Z.,** Albino F., Amelung F., Aoki Y., Fattahi H. (2015). Poster: Pre-eruptive deformation of Shinmoe-dake in Kirishima volcano, Japan: geodetic observations and modeling. _Earthscope National Meeting 2015_, Jun 14-17, Stowe, Vermont, USA. [ [PDF](https://yunjunz.github.io/files/Yunjun-2015-Earthscope.pdf) ]
+
+**Yunjun, Z.,** Amelung F., Aoki Y., Fattahi H. (2015). Poster: Pre-eruptive deformation of Kyushu Island volcanoes and magma source depth of Shinmoe-dake, Kirishima with L-band time series InSAR (P2-188). _Fringe 2015 Workshop_, 23-27 Mar 2015, Frascati (Rome) Italy. [ [PDF](https://yunjunz.github.io/files/Yunjun-2015-FRINGE.pdf) ]
+
+Torres Y., **Yunjun, Z.,** Amelung F., Wdowinski S., Premaratne K. (2015). Poster: Using Satellite Radar Interferometry for Monitoring Underground Construction: Subway Metro Construction, Budapest, Hungary (P2-273). _Fringe 2015 Workshop_, 23-27 Mar 2015, Frascati (Rome) Italy.
+
+### 2014
+
+**Yunjun, Z.,** Amelung F., Aoki Y. (2014). Poster: Time-dependent deformation revealed by InSAR survey: examples from Sangihe volcanic arc, Indonesia and Ryukyu volcanic arc, Japan (G43A-0500). _AGU Fall meeting 2014_, Dec 15-19, 2014, San Francisco, CA, USA. [ [PDF](https://yunjunz.github.io/files/Yunjun-2014-AGU.pdf) ]
