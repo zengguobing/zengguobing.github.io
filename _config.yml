@@ -85,10 +85,14 @@ author:
   bio              : "Postdoctoral Scholar at Caltech in Geodesy and Geophysics"
   location         : "Los Angeles, California"
   employer         :
+  department       : "Seismological Laboratory"
+  school           : "Division of Geological and Planetary Sciences"
+  university       : "California Institute of Technology"
+  country          : "United States"
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=nF2ghioAAAAJ"
   email            : "yunjunzgeo@gmail.com"
-  researchgate     : #"https://www.researchgate.net/profile/Zhang-Yunjun"
+  researchgate     : "https://www.researchgate.net/profile/Zhang-Yunjun"
   uri              :
   bitbucket        :
   codepen          :
