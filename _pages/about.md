@@ -8,6 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I am a post-doctoral scholar at the California Institute of Technology in Pasadena, CA, working with [Professor Mark Simons](http://web.gps.caltech.edu/~simons/), and a member of the algorithm development team for the Observational Products for End-users from Remote sensing Analysis ([OPERA](https://www.jpl.nasa.gov/go/opera)) project of NASA’s Jet Propulsion Laboratory.
+I am a postdoctoral scholar research associate at the California Institute of Technology in Pasadena, California, working with [Professor Mark Simons](http://web.gps.caltech.edu/~simons/), and a member of the algorithm development team for the Observational Products for End-users from Remote sensing Analysis ([OPERA](https://www.jpl.nasa.gov/go/opera)) project of NASA’s Jet Propulsion Laboratory.
 
-My research interests include algorithm and tools development for the time series analysis of Synthetic Aperture Radar (SAR) and Interferometric SAR (InSAR) and solid earth processes associated with active volcanism and tectonics and their related geological hazards. My long-term research objective is to improve the understanding of the surface response caused by the tectonic and non-tectonic processes deforming the solid earth.
+My long-term research objective is to better understand the surface response caused by tectonic, volcanic, and anthropogenic processes deforming the solid Earth and other planets. My research is an interdisciplinary blend of geophysics, mathematics and computer science. I am most interested in developing geodetic techniques to precisely measure the ground surface deformation to understand how and when it deforms with the present of geohazards. To this end, I am interested in the following research topics:
+
++ SAR / InSAR Algorithm and Tools Development
++ Geohazards from Active Volcanism and Tectonics
++ High Resolution InSAR Monitoring: Landslides and Infrastructures
+
+### Curriculum Vitae: [PDF](https://yunjunz.github.io/files/CV.pdf) ###
