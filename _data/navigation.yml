@@ -10,10 +10,10 @@ main:
     url: /publications/
 
   - title: "Software"
-    url: /software/    
+    url: /software/
 
   - title: "Data"
-    url: /data/    
+    url: /data/
 
-  - title: "News"
-    url: /news/
+  - title: "Contact"
+    url: /contact/

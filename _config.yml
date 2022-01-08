@@ -11,7 +11,7 @@ title                    : "Zhang Yunjun"
 title_separator          : "-"
 name                     : &name "Zhang Yunjun"
 description              : &description "Postdoctoral Scholar at Caltech"
-url                      : https://yunjunz.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://yunjunz.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yunjunz.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -179,13 +179,10 @@ kramdown:
 
 # Collections
 collections:
+  research:
+    output: true
+    permalink: /:collection/:path/
   teaching:
-    output: true
-    permalink: /:collection/:path/
-  publications:
-    output: true
-    permalink: /:collection/:path/
-  portfolio:
     output: true
     permalink: /:collection/:path/
   talks:
