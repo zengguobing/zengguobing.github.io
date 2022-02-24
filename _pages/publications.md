@@ -31,6 +31,7 @@ author_profile: true
 ### 2018
 
 5\. Brothelande, E., Amelung, F., **Yunjun, Z.,** & Wdowinski, S. (2018), Geodetic evidence for interconnectivity between Aira and Kirishima magmatic systems, Japan, _Scientific Reports, 8_(1), 9811, doi:[10.1038/s41598-018-28026-4](https://doi.org/10.1038/s41598-018-28026-4). [ [PDF](https://yunjunz.github.io/files/Brothelande_etal-2018-VolcConn.pdf) ]
++ News: [Eos - Science News by AGU](https://doi.org/10.1029/2018EO103659), [UNAVCO Science Snapshots](https://www.unavco.org/science/snapshots/solid-earth/2019/brothelande.html), [University of Miami News](https://news.miami.edu/rsmas/stories/2018/07/study-finds-deep-subterranean-connection-between-two-japan-volcanoes.html).
 
 ### 2017
 
