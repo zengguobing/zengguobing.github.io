@@ -67,6 +67,8 @@ Xu, L., Meng, L., Ji, C., Fielding, E., **Yunjun, Z.,** Zinke, R., Bao, H. (2021
 
 Solano-Rojas, D., Garcia-Venegas, J., **Yunjun, Z.,** Cabral-Cano, E., Fernandez-Torres, E., Wdowinski, S. (2021). Poster: Sentinel-1 InSAR nationwide ground deformation mapping over Mexico (G55A-0244), _AGU Fall Meeting 2021_, Dec 13 - 17, 2021, New Orleans, LA.
 
+[_Invited_] **Yunjun, Z.,** Fattahi, H., Brancato, V., Rosen, P., Simons, M. (2021). Tectonic Displacement Mapping from SAR Offset Time Series: Noise Reduction and Uncertainty Quantification. _2021 SECE Community Geodetic Model Workshop_, 9-10 Nov, 2021, Virtual. [ [Recording](https://youtu.be/SQG7PquayVs) ]
+
 **Yunjun, Z.,** Fattahi, H., Brancato, V., Rosen, P., Simons, M. (2021), Oral: Tectonic displacement mapping from SAR offset time series: noise reduction and uncertainty quantification (590), _FRINGE 2021_, 31 May - 4 Jun, 2021, Virtual. [ [Recording](https://youtu.be/Eu_T8mOs09U?t=101) ]
 
 **Yunjun, Z.,** Fattahi, H., Agram, P. S., Rosen, P., Simons, M. (2021), Oral: InSAR uncertainty due to phase unwrapping errors (444), _FRINGE 2021_, 31 May - 4 Jun, 2021, Virtual. [ [Recording](https://youtu.be/czDSZo2wJRk?t=3394) ]
