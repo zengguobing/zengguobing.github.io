@@ -10,11 +10,13 @@ author_profile: true
 
 [_in prep_] **Yunjun, Z.,** Fattahi, H., Brancato, V., Simons, M., Zhu, L., & Rosen, P. (2022). Absolute Tectonic Displacement Mapping from SAR Offset Time Series: Noise Reduction and Uncertainty Quantification.
 
-[_in review_] Aldaajani, T., Simons, M., **Yunjun, Z.,** Bekaert, D., Almalki, K.A., Liu, Y.K., (2022). Using InSAR time series to monitor surface fractures and fissures in the Al-Yutamah Valley, Western Arabia. _Remote Sensing_.
-
-[_in revision_] **Yunjun, Z.,** Fattahi, H., Pi, X., Rosen, P., Simons, M., Agram, P., & Aoki, Y. (2022). Range Geolocation Accuracy of C/L-band SAR and its Implications for Operational Stack Coregistration. _IEEE Transactions on Geoscience and Remote Sensing_. [ [Notebooks](https://github.com/yunjunz/2022-Geolocation) ]
-
 [_in revision_] Gregg, P. M., Zhan, Y., Amelung, F., Geist, D., Mothes, P., Koric, S., & **Yunjun, Z.** (2022), Mechanical failure and the June 26, 2018 Eruption of Sierra Negra Volcano, Galápagos – Ecuador, _Science Advance_.
+
+[_in press_] **Yunjun, Z.,** Fattahi, H., Pi, X., Rosen, P., Simons, M., Agram, P., & Aoki, Y. (2022). Range Geolocation Accuracy of C/L-band SAR and its Implications for Operational Stack Coregistration. _IEEE Transactions on Geoscience and Remote Sensing_. [ [Notebooks](https://github.com/yunjunz/2022-Geolocation) ]
+
+### 2022
+
+10\. Aldaajani, T., Simons, M., **Yunjun, Z.,** Bekaert, D., Almalki, K.A., Liu, Y.K., (2022). Using InSAR time series to monitor surface fractures and fissures in the Al-Yutamah Valley, Western Arabia. _Remote Sensing, 14_(8), 1769, doi:[10.3390/rs14081769](https://doi.org/10.3390/rs14081769). [ [PDF](https://yunjunz.github.io/files/Aldaajani_etal-2022-fissure.pdf) ]
 
 ### 2021
 
