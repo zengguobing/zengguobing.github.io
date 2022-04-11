@@ -16,7 +16,7 @@ author_profile: true
 
 ### 2022
 
-10\. Aldaajani, T., Simons, M., **Yunjun, Z.,** Bekaert, D., Almalki, K.A., Liu, Y.K., (2022). Using InSAR time series to monitor surface fractures and fissures in the Al-Yutamah Valley, Western Arabia. _Remote Sensing, 14_(8), 1769, doi:[10.3390/rs14081769](https://doi.org/10.3390/rs14081769). [ [PDF](https://yunjunz.github.io/files/Aldaajani_etal-2022-fissure.pdf) ]
+10\. Aldaajani, T., Simons, M., **Yunjun, Z.,** Bekaert, D., Almalki, K.A., Liu, Y.K., (2022). Using InSAR time series to monitor surface fractures and fissures in the Al-Yutamah Valley, Western Arabia. _Remote Sensing, 14_(8), 1769, doi:[10.3390/rs14081769](https://doi.org/10.3390/rs14081769). [ [PDF](https://yunjunz.github.io/files/Aldaajani_etal-2022-RS.pdf) ]
 
 ### 2021
 
