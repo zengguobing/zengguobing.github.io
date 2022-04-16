@@ -12,7 +12,7 @@ author_profile: true
 
 [_in press_] Gregg, P. M., Zhan, Y., Amelung, F., Geist, D., Mothes, P., Koric, S., & **Yunjun, Z.** (2022), Forecasting mechanical failure and the June 26, 2018 Eruption of Sierra Negra Volcano, Galápagos – Ecuador, _Science Advances_.
 
-[_in press_] **Yunjun, Z.,** Fattahi, H., Pi, X., Rosen, P., Simons, M., Agram, P., & Aoki, Y. (2022). Range Geolocation Accuracy of C/L-band SAR and its Implications for Operational Stack Coregistration. _IEEE Transactions on Geoscience and Remote Sensing_. [ [Data](https://zenodo.org/record/6360749) \| [Notebooks](https://github.com/yunjunz/2022-Geolocation) \| [Code](https://github.com/insarlab/PySolid) ]
+[_in press_] **Yunjun, Z.,** Fattahi, H., Pi, X., Rosen, P., Simons, M., Agram, P., & Aoki, Y. (2022). Range Geolocation Accuracy of C/L-band SAR and its Implications for Operational Stack Coregistration. _IEEE Transactions on Geoscience and Remote Sensing_, doi:[10.1109/TGRS.2022.3168509](https://doi.org/10.1109/TGRS.2022.3168509). [ [Data](https://zenodo.org/record/6360749) \| [Notebooks](https://github.com/yunjunz/2022-Geolocation) \| [Code](https://github.com/insarlab/PySolid) ]
 
 ### 2022
 
