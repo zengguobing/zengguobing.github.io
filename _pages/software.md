@@ -13,7 +13,7 @@ The open-source software and projects with which I'm involved.
 
 ## MintPy
 
-A SAR and InSAR time series analysis software. [ [GitHub](https://github.com/insarlab/MintPy) \| [Documentation](https://mintpy.readthedocs.io/) \| [Tutorial](https://github.com/insarlab/MintPy-tutorial) \| [Forum](https://groups.google.com/g/mintpy) ]
+A time series analysis software for SAR and InSAR. [ [GitHub](https://github.com/insarlab/MintPy) \| [Documentation](https://mintpy.readthedocs.io/) \| [Tutorial](https://github.com/insarlab/MintPy-tutorial) \| [Forum](https://groups.google.com/g/mintpy) ]
 
 <img width='700' src='/images/FernandinaSenDT128.jpeg'>
 
