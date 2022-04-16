@@ -22,11 +22,11 @@ We present a review of small baseline interferometric synthetic aperture radar (
 
 The estimated InSAR time-series can be potentially biased by wrong integer numbers of cycles (2π rad) added to the interferometric phase during the two-dimensional phase unwrapping, to which we refer simply as unwrapping errors. We develop the following two methods to automatically correct unwrapping errors using constraints from the space and time domain, respectively. Check more details at [Yunjun et al. (2019)](https://yunjunz.github.io/files/Yunjun_etal-2019-mintpy.pdf) and [Oliver-Cabrera et al. (2021)](https://yunjunz.github.io/files/Oliver_etal-2021-PUError.pdf).
 
-+ The bridging method connecting reliable regions with minimum spanning tree bridges (particularly suitable for islands).
++ The bridging method connecting reliable regions with minimum spanning tree bridges.
 
 <img width='800' src='/images/unw_error_bridging.jpg'>
 
-+ The phase closure method exploiting the conservativeness of the integer ambiguity of interferogram triplets (well suited for highly redundant networks).
++ The phase closure method exploiting the conservativeness of the integer ambiguity of interferogram triplets.
 
 <img width='600' src='/images/unw_error_closure.jpg'>
 
