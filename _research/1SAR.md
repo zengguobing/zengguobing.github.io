@@ -16,6 +16,8 @@ SAR/InSAR time series analysis generally starts with coregistration. Here we int
 
 <img width='800' src='/images/misreg_ChileSenA.jpg'>
 
++ We developed a Python wrapper for the solid Earth tides correction. The code is open-sourced and freely available on GitHub at [https://github.com/insarlab/PySolid](https://github.com/insarlab/PySolid).
+
 
 ## Phase Unwrapping Error Correction
 
