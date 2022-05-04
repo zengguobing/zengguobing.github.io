@@ -4,9 +4,7 @@ title: "Active Volcanism"
 excerpt: "Observations and models of magmatic and hydrothermal deformation processes over active volcanoes.
   <br/>
   <br/>
-  <a href="/research/2volcano">
-    <img width='600' src='/images/Kirishima_model.jpg'>"
-  </a>
+  <img width='600' src='/images/Kirishima_model.jpg'>"
 collection: research
 author_profile: true
 ---

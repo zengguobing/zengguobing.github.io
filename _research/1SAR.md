@@ -4,9 +4,7 @@ title: "SAR Geodesy"
 excerpt: "Develop SAR and InSAR related algorithm and tools, including geolocation, coregistration, time series analysis, noise reduction, and uncertainty quantification.
   <br/>
   <br/>
-  <a href="/research/1SAR">
-    <img width='600' src='/images/phase_correction.jpg'>"
-  </a>
+  <img width='600' src='/images/phase_correction.jpg'>"
 collection: research
 author_profile: true
 ---
