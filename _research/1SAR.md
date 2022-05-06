@@ -14,7 +14,7 @@ author_profile: true
 
 SAR/InSAR time series analysis generally starts with coregistration. Here we introduce a model-adjusted geometrical image coregistration (MAGIC) algorithm for stack coregistration. This algorithm corrects for atmospheric propagation delays and known surface motions using existing models (as shown below). We validate this approach by evaluating the impact of different geolocation errors on stacks of C-band Sentinel-1 and L-band ALOS-2 data, with a focus on the ionosphere. The results demonstrate that for Sentinel-1, the MAGIC approach is accurate enough in the range direction for most applications including interferometry. Check more details in [Yunjun et al. (2022)](https://yunjunz.github.io/files/Yunjun_etal-2022-geolocation.pdf).
 
-<img width='800' src='/images/misreg_ChileSenA.jpg'>
+<img width='900' src='/images/misreg_ChileSenA.jpg'>
 
 + We developed a Python wrapper for the solid Earth tides correction. The code is open-sourced and freely available on GitHub at [https://github.com/insarlab/PySolid](https://github.com/insarlab/PySolid).
 
@@ -25,7 +25,7 @@ The estimated InSAR time-series can be potentially biased by wrong integer numbe
 
 + The bridging method connecting reliable regions with minimum spanning tree bridges.
 
-<img width='800' src='/images/unw_error_bridging.jpg'>
+<img width='750' src='/images/unw_error_bridging.jpg'>
 
 + The phase closure method exploiting the conservativeness of the integer ambiguity of interferogram triplets.
 
