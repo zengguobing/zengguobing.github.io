@@ -6,7 +6,7 @@ excerpt: "Observations and models of magmatic and hydrothermal deformation proce
   <br/>
   <img width='600' src='/images/Kirishima_model.jpg'>"
 collection: research
-author_profile: true
+author_profile: false
 ---
 
 ## Hydrothermal System of Kirishima Volcanic Complex in Kyushu, Japan

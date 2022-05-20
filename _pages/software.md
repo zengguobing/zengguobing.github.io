@@ -3,7 +3,7 @@ layout: archive
 permalink: /software/
 title: "Software"
 excerpt: "Software"
-author_profile: true
+author_profile: false
 redirect_from: 
   - /code/
   - /code.html

@@ -3,7 +3,7 @@ layout: archive
 permalink: /data/
 title: "Open Dataset"
 excerpt: "Data"
-author_profile: true
+author_profile: false
 ---
 
 ## InSAR Time Series of Kirishima Volcanic Complex in Japan

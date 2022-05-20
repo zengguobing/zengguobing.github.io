@@ -1,7 +1,7 @@
 ---
 permalink: /publications/
 title: ""
-author_profile: true
+author_profile: false
 ---
 
 # Peer-Reviewed Publications

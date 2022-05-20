@@ -6,7 +6,7 @@ excerpt: "Develop SAR and InSAR related algorithm and tools, including geolocati
   <br/>
   <img width='600' src='/images/phase_correction.jpg'>"
 collection: research
-author_profile: true
+author_profile: false
 ---
 
 
