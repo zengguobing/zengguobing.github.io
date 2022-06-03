@@ -10,9 +10,9 @@ author_profile: false
 
 [_in prep_] **Yunjun, Z.,** Fattahi, H., Brancato, V., Simons, M., Zhu, L., & Rosen, P. (2022). Absolute Tectonic Displacement Mapping from SAR Offset Time Series: Noise Reduction and Uncertainty Quantification.
 
-[_in press_] Gregg, P. M., Zhan, Y., Amelung, F., Geist, D., Mothes, P., Koric, S., & **Yunjun, Z.** (2022), Forecasting mechanical failure and the June 26, 2018 Eruption of Sierra Negra Volcano, Galápagos – Ecuador, _Science Advances_.
-
 ### ------ 2022 ------
+
+12\. Gregg, P. M., Zhan, Y., Amelung, F., Geist, D., Mothes, P., Koric, S., & **Yunjun, Z.** (2022), Forecasting mechanical failure and the 26 June 2018 eruption of Sierra Negra Volcano, Galápagos, Ecuador, _Science Advances, 8_(22), eabm4261, doi:[10.1126/sciadv.abm4261](https://doi.org/10.1126/sciadv.abm4261). [ [PDF](https://yunjunz.github.io/files/Gregg_etal-2022-Forcast.pdf) \| [Supp](https://yunjunz.github.io/files/Gregg_etal-2022-sm.pdf) ]
 
 11\. **Yunjun, Z.,** Fattahi, H., Pi, X., Rosen, P., Simons, M., Agram, P., & Aoki, Y. (2022). Range Geolocation Accuracy of C-/L-band SAR and its Implications for Operational Stack Coregistration. _IEEE Transactions on Geoscience and Remote Sensing, 60_, doi:[10.1109/TGRS.2022.3168509](https://doi.org/10.1109/TGRS.2022.3168509). [ [PDF](https://yunjunz.github.io/files/Yunjun_etal-2022-geolocation.pdf) \| [Data](https://zenodo.org/record/6360749) \| [Notebooks](https://github.com/yunjunz/2022-Geolocation) \| [Code](https://github.com/insarlab/PySolid) ]
 
