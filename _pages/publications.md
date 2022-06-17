@@ -10,9 +10,9 @@ author_profile: false
 
 [_in prep_] **Yunjun, Z.,** Fattahi, H., Brancato, V., Simons, M., Zhu, L., & Rosen, P. (2022). Absolute Tectonic Displacement Mapping from SAR Offset Time Series: Noise Reduction and Uncertainty Quantification.
 
-[_in review_] Xu, L., Meng, L., Ji, C., **Yunjun, Z.,** Fielding, E. J., Zinke, R., Bao, H., Sub-Shear Rupture on Bifurcating Faults: Kinematics and Dynamics of the 2021 Mw7.4 Maduo Earthquake in Qinghai, _Journal of Geophysical Research: Solid Earth_.
+[_in review_] Xu, L., Meng, L., Ji, C., **Yunjun, Z.,** Fielding, E. J., Zinke, R., Bao, H., Sub-Shear Rupture on Bifurcating Faults: Kinematics and Dynamics of the 2021 Mw7.4 Maduo Earthquake in Qinghai, _Journal of Geophysical Research: Solid Earth_, doi:[10.1002/essoar.10511643.1](https://doi.org/10.1002/essoar.10511643.1).
 
-[_in review_] Stephenson, O. L., Liu, Y. K., **Yunjun, Z.,** Simons, M., Rosen, P., The Impact of Plate Motions on Long-Wavelength InSAR-Derived Velocity Fields, _Geophysical Research Letters_, doi:[10.1002/essoar.10511538.1](https://doi.org/10.1002/essoar.10511538.1).
+[_in review_] Stephenson, O. L., Liu, Y. K., **Yunjun, Z.,** Simons, M., Rosen, P., Xu., X., The Impact of Plate Motions on Long-Wavelength InSAR-Derived Velocity Fields, _Geophysical Research Letters_, doi:[10.1002/essoar.10511538.2](https://doi.org/10.1002/essoar.10511538.2).
 
 ### ------ 2022 ------
 
