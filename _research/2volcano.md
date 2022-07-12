@@ -27,4 +27,4 @@ Have you wondered what to do with the estimated DEM error from InSAR time series
 
 It is not known whether clustered or aligned volcanic edifices at the Earth surface have connected magmatic systems at depth. Here we use GNSS time-series and deformation modeling to show how Aira caldera and Kirishima, two adjacent volcanic centers in Kagoshima graben (southern Japan), interacted during Kirishima unrest in 2011. Check more details at [Brothelande et al. (2018)](https://yunjunz.github.io/files/Brothelande_etal-2018-VolcConn.pdf).
 
-<img width='900' src='/images/aira_kirishima_conn.jpg'>
+<img width='800' src='/images/aira_kirishima_conn.jpg'>
