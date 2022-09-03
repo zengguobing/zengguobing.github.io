@@ -16,7 +16,7 @@ author_profile: false
 
 ### ------ 2022 ------
 
-12\. Gregg, P. M., Zhan, Y., Amelung, F., Geist, D., Mothes, P., Koric, S., & **Yunjun, Z.** (2022), Forecasting mechanical failure and the 26 June 2018 eruption of Sierra Negra Volcano, Galápagos, Ecuador, _Science Advances, 8_(22), doi:[10.1126/sciadv.abm4261](https://doi.org/10.1126/sciadv.abm4261). [ [PDF](https://yunjunz.github.io/files/Gregg_etal-2022-Forcast.pdf) \| [Supp](https://yunjunz.github.io/files/Gregg_etal-2022-sm.pdf) ]
+12\. Gregg, P. M., Zhan, Y., Amelung, F., Geist, D., Mothes, P., Koric, S., & **Yunjun, Z.** (2022), Forecasting mechanical failure and the 26 June 2018 eruption of Sierra Negra Volcano, Galápagos, Ecuador, _Science Advances, 8_(22), doi:[10.1126/sciadv.abm4261](https://doi.org/10.1126/sciadv.abm4261). [ [PDF](https://yunjunz.github.io/files/Gregg_etal-2022-Forcast.pdf) \| [Supp](https://yunjunz.github.io/files/Gregg_etal-2022-sm.pdf) \| News at [EurekAlert!](https://www.eurekalert.org/news-releases/954654), [The Science Times](https://www.sciencetimes.com/articles/38054/20220606/predicting-volcanic-eruptions-possible-now-through-supercomputers.htm), [Popular Science](https://www.popsci.com/science/volcanic-eruption-forecast/), [ANSA](https://www.ansa.it/canale_scienza_tecnica/notizie/terra_poli/2022/06/06/vulcani-il-supercomputer-aiuta-a-prevedere-uneruzione-_c2a118c3-8992-4164-9979-22f6c3a03c89.html) ]
 
 11\. **Yunjun, Z.,** Fattahi, H., Pi, X., Rosen, P., Simons, M., Agram, P., & Aoki, Y. (2022). Range Geolocation Accuracy of C-/L-band SAR and its Implications for Operational Stack Coregistration. _IEEE Transactions on Geoscience and Remote Sensing, 60_, doi:[10.1109/TGRS.2022.3168509](https://doi.org/10.1109/TGRS.2022.3168509). [ [PDF](https://yunjunz.github.io/files/Yunjun_etal-2022-geolocation.pdf) \| [Data](https://zenodo.org/record/6360749) \| [Notebooks](https://github.com/yunjunz/2022-Geolocation) \| [Code](https://github.com/insarlab/PySolid) ]
 
@@ -61,6 +61,10 @@ Yunjun, Z., (2014), Distributed Scatterer Radar Interferometry for Deformation o
 
 
 # Conference Presentations
+
+### ------ 2022 ------
+
+**Yunjun, Z.,** Fattahi, H., Liu, Y.K., Brancato, V., Simons, M. (2022). Poster: Azimuth Geolocation Accuracy of Sentinel-1 and Its Implications for Stack Coregistration and Intra-Burst Phase Discontinuity, _2022 NISAR Science Community Workshop_, Aug 30 - Sep 1, 2022, Pasadena, CA.
 
 ### ------ 2021 ------
 
