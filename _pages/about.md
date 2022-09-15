@@ -19,7 +19,3 @@ My long-term research objective is to better understand the surface response cau
 + High Resolution InSAR Monitoring: Landslides and Infrastructures
 
 ### Curriculum Vitae: [PDF](https://yunjunz.github.io/files/CV_Yunjun.pdf) ###
-
-<br/>    
-
-<span style="color:darkgray">_Clarification:_ Zhang (as /jahng/) is my family name and Yunjun (as /yroon june/) is my given name. I write as Zhang Yunjun (Z. Yunjun) in scientific publications to be more unique and identifiable. This is also the order in Chinese, so it feels more natural. Call me Yunjun when we met, and cite me as Yunjun too!</span>
