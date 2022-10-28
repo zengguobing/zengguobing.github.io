@@ -64,7 +64,7 @@ Yunjun, Z., (2014), Distributed Scatterer Radar Interferometry for Deformation o
 
 ### ------ 2022 ------
 
-**Yunjun, Z.,** Fattahi, H., Liu, Y.K., Brancato, V., Simons, M. (2022). Poster: Azimuth Geolocation Accuracy of Sentinel-1 and Its Implications for Stack Coregistration and Intra-Burst Phase Discontinuity, _2022 NISAR Science Community Workshop_, Aug 30 - Sep 1, 2022, Pasadena, CA.
+**Yunjun, Z.,** Fattahi, H., Liu, Y.K., Brancato, V., Simons, M. (2022). Oral: Azimuth Geolocation Accuracy of Sentinel-1 and Its Implications for Stack Coregistration and Intra-Burst Phase Discontinuity (G45A-04), _AGU Fall Meeting 2022_, Dec 12 - 16, 2022, Chicago, IL.
 
 Stephenson, O., Liu, Y.K., **Yunjun, Z.,** Simons, M., Rosen, P., Xu, X. (2022). Poster: The Impact of Plate Motions on Long-Wavelength InSAR-Derived Velocity Fields, _2022 NISAR Science Community Workshop_, Aug 30 - Sep 1, 2022, Pasadena, CA.
 
