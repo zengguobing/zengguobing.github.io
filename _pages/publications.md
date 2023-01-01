@@ -64,7 +64,15 @@ Yunjun, Z., (2014), Distributed Scatterer Radar Interferometry for Deformation o
 
 ### ------ 2022 ------
 
-**Yunjun, Z.,** Fattahi, H., Liu, Y.K., Brancato, V., Simons, M. (2022). Oral: Azimuth Geolocation Accuracy of Sentinel-1 and Its Implications for Stack Coregistration and Intra-Burst Phase Discontinuity (G45A-04), _AGU Fall Meeting 2022_, Dec 12 - 16, 2022, Chicago, IL.
+**Yunjun, Z.,** Fattahi, H., Liu, Y.K., Zheng, Y., Brancato, V., Simons, M. (2022). Oral: Azimuth Geolocation Accuracy of C-/L-Band SAR: Implications for Stack Coregistration and Sentinel-1 Intra-Burst Phase Discontinuity (G45A-04), _AGU Fall Meeting 2022_, Dec 12 - 16, 2022, Chicago, IL.
+
+Fattahi, H., Brancato, V., Jeong, S., **Yunjun, Z.,** Staniewicz, S., Bekaert, D., Bato, G., Lu, Z., Kim, J., Liang, K., Sangha, S. (2022) Oral: OPERA Coregistered Single Look Complex products from Sentinel-1 data (G45A-03), _AGU Fall Meeting 2022_, Dec 12 - 16, 2022, Chicago, IL.
+
+Liu, Y.K., Stephenson, O., **Yunjun, Z.,** Simons, M., Rosen, P., Xu, X. (2022) Oral: The Impact of Place Motions on Long-Wavelength InSAR-Derived Velocity Fields (G46A-04), _AGU Fall Meeting 2022_, Dec 12 - 16, 2022, Chicago, IL.
+
+Liu, Y.K., **Yunjun, Z.,** Stephenson, O., Simons, M. (2022) Poster: High Resolution Interseismic Deformation of the Southern Dead Sea Transform Fault (G35B-0332), _AGU Fall Meeting 2022_, Dec 12 - 16, 2022, Chicago, IL.
+
+**Yunjun, Z.,** Fattahi, H., Liu, Y.K., Brancato, V., Simons, M. (2022). Poster: Azimuth Geolocation Accuracy of Sentinel-1 and Its Implications for Stack Coregistration and Intra-Burst Phase Discontinuity, _2022 NISAR Science Community Workshop_, Aug 30 - Sep 1, 2022, Pasadena, CA.
 
 Stephenson, O., Liu, Y.K., **Yunjun, Z.,** Simons, M., Rosen, P., Xu, X. (2022). Poster: The Impact of Plate Motions on Long-Wavelength InSAR-Derived Velocity Fields, _2022 NISAR Science Community Workshop_, Aug 30 - Sep 1, 2022, Pasadena, CA.
 
