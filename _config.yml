@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zeng Guobing / Personal Homopage"
+title                    : "Rick's Homopage"
 title_separator          : "-"
 name                     : &name "Zeng Guobing"
 description              : &description "A PhD student at Beihang University"
