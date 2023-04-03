@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Rick's Homopage"
 title_separator          : "-"
-name                     : &name "Zeng Guobing (曾国兵)"
+name                     : &name "Zeng Guobing"
 description              : &description "A PhD student at Beihang University"
 url                      : https://zengguobing.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
