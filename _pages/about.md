@@ -14,6 +14,8 @@ Publications
 ======
 [_undergoing review_] **G. Zeng**, H. Xu, W. Liu, A. Liu and Y. Wang. An MLE of Interferometric Coherence Matrix and Its Applications in Multipolarimetric Interferometric Phase Optimization and Phase Series Estimation.
 
+[_undergoing review_] Y. Wang, H. Xu, **G. Zeng**, W. Liu, S. Li and C. Li. A method for selecting SAR interferometric pairs based on coherence spectral clustering.
+
 H. Xu, **G. Zeng**, W. Liu and Y. Wang. MLE-MPPL: A Maximum Likelihood Estimator for Multipolarimetric Phase Linking in MTInSAR. _IEEE Transactions on Geoscience and Remote Sensing_, vol. 61, pp. 1-13, 2023, Art no. 5202913. [doi: 10.1109/TGRS.2023.3243220](https://doi.org/10.1109/TGRS.2023.3243220) / [Code](https://github.com/zengguobing/MLE-MPPL).
 
 XU Huaping, WANG Yuan, LI Chunsheng, **ZENG Guobing**, LI Shuo, LI Shuang, REN Chong. A Novel Adaptive InSAR Phase Filtering Method Based on Complexity Factors. _Chinese Journal of Electronics_. [doi: 10.23919/cje.2021.00.280](https://doi.org/10.23919/cje.2021.00.280)
