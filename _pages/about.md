@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a second year PhD student at the [School of Electronic and Information Engineering](http://www.ee.buaa.edu.cn/) from [Beihang University](https://www.buaa.edu.cn/). I'm currently working on (1) synthetic aperture radar (SAR) interferometry (2) differential SAR interferometry (3) polarimetric differential SAR interferometry.
+I'm a second year PhD student at the [School of Electronic and Information Engineering](http://www.ee.buaa.edu.cn/) from [Beihang University](https://www.buaa.edu.cn/). I'm currently working on (1) synthetic aperture radar (SAR) interferometry (2) differential SAR interferometry (3) polarimetric differential SAR interferometry (4) SAR tomography for forest applications.
 
 Publications
 ======
