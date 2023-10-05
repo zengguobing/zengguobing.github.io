@@ -8,10 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I'm a second year PhD student at the [School of Electronic and Information Engineering](http://www.ee.buaa.edu.cn/) from [Beihang University](https://www.buaa.edu.cn/). I'm currently working on (1) synthetic aperture radar (SAR) interferometry (2) differential SAR interferometry (3) polarimetric differential SAR interferometry (4) SAR tomography for forest applications.
+I'm a third year PhD student at the [School of Electronic and Information Engineering](http://www.ee.buaa.edu.cn/) from [Beihang University](https://www.buaa.edu.cn/). I'm currently working on (1) synthetic aperture radar (SAR) interferometry (2) differential SAR interferometry (3) polarimetric differential SAR interferometry (4) SAR tomography for forest applications.
 
 Publications
 ======
+[_undergoing review_] **G. Zeng**, H. Xu, Y. Wang, W. Liu, A. Liu and L. Yi. A novel method for the separation of ground and volume scattering in multibaseline polarimetric SAR data and its application in DTM and CHM inversion.
+
 [_undergoing review_] **G. Zeng**, H. Xu, W. Liu, A. Liu and Y. Wang. An MLE of Interferometric Coherence Matrix and Its Applications in Multipolarimetric Interferometric Phase Optimization and Phase Series Estimation.
 
 [_undergoing review_] Y. Wang, H. Xu, **G. Zeng**, W. Liu, S. Li and C. Li. A method for selecting SAR interferometric pairs based on coherence spectral clustering.
