@@ -24,6 +24,8 @@ XU Huaping, WANG Yuan, LI Chunsheng, **ZENG Guobing**, LI Shuo, LI Shuang, REN C
 
 H. Xu, S. Wang, S. Li, **G. Zeng**, Z. You and W. Li. Multibaseline InSAR Layover Detection Based on Local Frequency and Eigenvalue. _IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing_, vol. 14, pp. 10571-10582, 2021.[doi: 10.1109/JSTARS.2021.3120007](https://doi.org/10.1109/JSTARS.2021.3120007)
 
+J. Li, **G. Zeng**, H. Xu. Parallel Coregistration Algorithm For Sar Images Based On Hadoop._IGARSS 2023 - 2023 IEEE International Geoscience and Remote Sensing Symposium_, Pasadena, CA, USA, 2023, pp. 7957-7960. [doi: 10.1109/IGARSS52108.2023.10281735](https://doi.org/10.1109/IGARSS52108.2023.10281735)
+
 **G. Zeng**, B. Yang, H. Xu, C. Ren and Y. Wang. A differential SAR Tomography inversion method based on Distributed Compressive Sensing. _2021 CIE International Conference on Radar (Radar)_, Haikou, Hainan, China, 2021, pp. 740-744. [doi: 10.1109/Radar53847.2021.10028429](https://doi.org/10.1109/Radar53847.2021.10028429)
 
 Y. Wang, H. Xu, S. Li and **G. Zeng**. An Improved InSAR Baseline Estimation Based on Interferometric Fringe Frequency. _2021 IEEE International Geoscience and Remote Sensing Symposium IGARSS_, Brussels, Belgium, 2021, pp. 4296-4299. [doi: 10.1109/IGARSS47720.2021.9554863](https://doi.org/10.1109/IGARSS47720.2021.9554863)
