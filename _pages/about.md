@@ -14,7 +14,7 @@ Publications
 ======
 [_undergoing review_] **G. Zeng**, H. Xu, Y. Wang, W. Liu, A. Liu and L. Yi. A novel method for the separation of ground and volume scattering in multibaseline polarimetric SAR data and its application in DTM and CHM inversion.
 
-**G. Zeng**, H. Xu, W. Liu, A. Liu and Y. Wang. An MLE of Interferometric Coherence Matrix and Its Applications in Multipolarimetric Interferometric Phase Optimization and Phase Series Estimation._IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing_, [doi: 10.1109/JSTARS.2023.3327196](https://doi.org/10.1109/JSTARS.2023.3327196)
+**G. Zeng**, H. Xu, W. Liu, A. Liu and Y. Wang. An MLE of Interferometric Coherence Matrix and Its Applications in Multipolarimetric Interferometric Phase Optimization and Phase Series Estimation. _IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing_, [doi: 10.1109/JSTARS.2023.3327196](https://doi.org/10.1109/JSTARS.2023.3327196)
 
 Y. Wang, H. Xu, **G. Zeng**, W. Liu, S. Li and C. Li. A Method for Selecting SAR Interferometric Pairs Based on Coherence Spectral Clustering. _IEEE Transactions on Geoscience and Remote Sensing_, [doi: 10.1109/TGRS.2023.3327260](https://doi.org/10.1109/TGRS.2023.3327260)
 
