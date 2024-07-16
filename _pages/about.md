@@ -16,9 +16,9 @@ Publications
 
 [_undergoing review_] **G. Zeng**, H. Xu, Y. Wang, S. Li and C. Ren. A Modified Minimum Cost Flow Phase Unwrapping Method Based on Reliable Pixel Detection.
 
-[_undergoing review_] **G. Zeng**, H. Xu, Y. Wang, W. Liu, A. Liu, Y. Liu and L. Yi. Separation of Ground and Volume Scattering in Multibaseline Polarimetric SAR Data and Its Application in DTM and CHM Inversion.
-
 [_undergoing review_] Y. Wang, H. Xu, **G. Zeng**, W. Liu, S. Li and C. Li. MBInSAR-BM4D: A Multibaseline InSAR Interferometric Phase Noise Suppression Method Based on BM4D.
+
+**G. Zeng**, H. Xu, Y. Wang, W. Liu, A. Liu, Y. Liu and L. Yi. Separation of Ground and Volume Scattering in Multibaseline Polarimetric SAR Data and Its Application in DTM and CHM Inversion. _IEEE Transactions on Geoscience and Remote Sensing_.
 
 **G. Zeng**, H. Xu, W. Liu, A. Liu and Y. Wang. An MLE of Interferometric Coherence Matrix and Its Applications in Multipolarimetric Interferometric Phase Optimization and Phase Series Estimation. _IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing_, [doi: 10.1109/JSTARS.2023.3327196](https://doi.org/10.1109/JSTARS.2023.3327196)
 
