@@ -23,7 +23,7 @@ Publications
 
 H. Xu, **G. Zeng**, W. Liu and Y. Wang. MLE-MPPL: A Maximum Likelihood Estimator for Multipolarimetric Phase Linking in MTInSAR. _IEEE Transactions on Geoscience and Remote Sensing_, vol. 61, pp. 1-13, 2023, Art no. 5202913. [doi: 10.1109/TGRS.2023.3243220](https://doi.org/10.1109/TGRS.2023.3243220) / [Code](https://github.com/zengguobing/MLE-MPPL).
 
-Y. Wang, H. Xu, **G. Zeng**, W. Liu, S. Li and C. Li. A Multi-source InSAR DEM Reconstruction Framework Based on a Complexity Factor. _IEEE Transactions on Geoscience and Remote Sensing_, [doi: 10.1109/TGRS.2024.3483447](https://doi.org/10.1109/TGRS.2024.3523435)
+Y. Wang, H. Xu, **G. Zeng**, W. Liu, S. Li and C. Li. A Multi-source InSAR DEM Reconstruction Framework Based on a Complexity Factor. _IEEE Transactions on Geoscience and Remote Sensing_, [doi: 10.1109/TGRS.2024.3523435](https://doi.org/10.1109/TGRS.2024.3523435)
 
 Y. Wang, H. Xu, **G. Zeng**, W. Liu, S. Li and C. Li. MBInSAR-BM4D: A Multibaseline InSAR Interferometric Phase Noise Suppression Method Based on BM4D. _IEEE Transactions on Geoscience and Remote Sensing_, [doi: 10.1109/TGRS.2024.3483447](https://doi.org/10.1109/TGRS.2024.3483447)
 
