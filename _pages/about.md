@@ -12,7 +12,9 @@ I'm a fourth year PhD student at the [School of Electronic and Information Engin
 
 Publications
 ======
-## journals 
+## journals
+(In revision)**G. Zeng**, Y. Wang, H. Xu, D. Ho Tong Minh and L. Ferro-Famil. Identification of Forest Ground and Canopy Peaks from 3D SAR Tomographic Profile Using Deep Learning. _IEEE Transactions on Geoscience and Remote Sensing_.
+
 **G. Zeng**, H. Xu, Y. Wang and W. Liu. A Novel Method for Airborne SAR Tomography Baseline Error Correction Driven by Small Baseline Interferometric Phase. _IEEE Transactions on Geoscience and Remote Sensing_, [doi: 10.1109/TGRS.2024.3478055](https://doi.org/10.1109/TGRS.2024.3478055)
 
 **G. Zeng**, H. Xu, Y. Wang, S. Li and C. Ren. A Modified Minimum Cost Flow Phase Unwrapping Method Based on Reliable Pixel Detection. _IEEE Sensors Journal_, [doi: 10.1109/JSEN.2024.3450508](https://doi.org/10.1109/JSEN.2024.3450508)
