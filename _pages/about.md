@@ -13,6 +13,8 @@ I'm a fourth year PhD student at the [School of Electronic and Information Engin
 Publications
 ======
 ## journals
+(In Chinese) **曾国兵**, 王媛，徐华平, 张乐, 等. 星载多站层析SAR森林高度反演初探. _雷达学报_.（评审中）
+
 (Under review) **G. Zeng**, Y. Wang, H. Xu, D. Ho Tong Minh and X. Yan. First Demonstration of Spaceborne Multi-static SAR Tomography Using Chinese Hongtu-1 X-band Radar Constellation. _IEEE Transactions on Geoscience and Remote Sensing_.
 
 **G. Zeng**, Y. Wang, H. Xu, D. Ho Tong Minh and L. Ferro-Famil. Identification of Forest Ground and Canopy Peaks from 3D SAR Tomographic Profile Using Deep Learning. _IEEE Transactions on Geoscience and Remote Sensing_, [doi:10.1109/TGRS.2025.3610737](https://doi.org/10.1109/TGRS.2025.3610737)
