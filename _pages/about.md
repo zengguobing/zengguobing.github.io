@@ -15,7 +15,7 @@ Publications
 ## journals
 (Under review) **G. Zeng**, Y. Wang, H. Xu, D. Ho Tong Minh and X. Yan. First Demonstration of Spaceborne Multi-static SAR Tomography Using Chinese Hongtu-1 X-band Radar Constellation. _IEEE Transactions on Geoscience and Remote Sensing_.
 
-(In revision) **G. Zeng**, Y. Wang, H. Xu, D. Ho Tong Minh and L. Ferro-Famil. Identification of Forest Ground and Canopy Peaks from 3D SAR Tomographic Profile Using Deep Learning. _IEEE Transactions on Geoscience and Remote Sensing_.
+**G. Zeng**, Y. Wang, H. Xu, D. Ho Tong Minh and L. Ferro-Famil. Identification of Forest Ground and Canopy Peaks from 3D SAR Tomographic Profile Using Deep Learning. _IEEE Transactions on Geoscience and Remote Sensing_, [doi:10.1109/TGRS.2025.3610737](https://doi.org/10.1109/TGRS.2025.3610737)
 
 **G. Zeng**, H. Xu, Y. Wang and W. Liu. A Novel Method for Airborne SAR Tomography Baseline Error Correction Driven by Small Baseline Interferometric Phase. _IEEE Transactions on Geoscience and Remote Sensing_, [doi: 10.1109/TGRS.2024.3478055](https://doi.org/10.1109/TGRS.2024.3478055)
 
