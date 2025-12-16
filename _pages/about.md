@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Incoming Research Fellow at [Earth Observatory of Singapore, Nanyang Technological University (NTU)](https://earthobservatory.sg/); PhD from [Beihang University](https://www.buaa.edu.cn/); former visiting scholar at [Centre d’Etudes Spatiales de la Biosphère (CESBIO)](https://www.cesbio.cnrs.fr/) in France. Working on (1) synthetic aperture radar (SAR) interferometry (2) differential SAR interferometry (3) polarimetric differential SAR interferometry (4) SAR tomography for forest applications.
+Research Fellow at [Earth Observatory of Singapore, Nanyang Technological University (NTU)](https://earthobservatory.sg/); PhD from [Beihang University](https://www.buaa.edu.cn/); former visiting scholar at [Centre d’Etudes Spatiales de la Biosphère (CESBIO)](https://www.cesbio.cnrs.fr/) in France. Working on (1) synthetic aperture radar (SAR) interferometry (2) differential SAR interferometry (3) polarimetric differential SAR interferometry (4) SAR tomography for forest applications.
 
 Publications
 ======
