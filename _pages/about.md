@@ -13,7 +13,7 @@ Research Fellow at [Earth Observatory of Singapore, Nanyang Technological Univer
 Publications
 ======
 ## journals
-**曾国兵**, 徐华平, 王媛, 张乐, 等. 星载多站层析SAR森林高度反演初探. _雷达学报_,[https://doi.org/10.12000/JR25269](https://doi.org/10.12000/JR25269)
+**曾国兵**, 徐华平, 王媛, 张乐, 等. 星载多站层析SAR森林高度反演初探. _雷达学报_, [https://doi.org/10.12000/JR25269](https://doi.org/10.12000/JR25269)
 
 (Under review) **G. Zeng**, Y. Wang, H. Xu, D. Ho Tong Minh and X. Yan. First Demonstration of Spaceborne Multi-static SAR Tomography Using Chinese Hongtu-1 X-band Radar Constellation. _IEEE Transactions on Geoscience and Remote Sensing_.
 
